@@ -5,7 +5,7 @@ res.json({name:"Anil",age:28})
 }
 const contactPage=(req,res)=>
 {
-    res.send("Contact")
+    res.send("Contact 1")
 }
 const blogPageSetup=(req,res)=>
 {
